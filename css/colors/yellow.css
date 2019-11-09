@@ -1,0 +1,154 @@
+a:link,
+a:visited,
+a:hover,
+a:focus {
+    text-decoration: none;
+    color: #ffd600;
+}
+
+.navbar-brand {
+    background: url("../../images/logo-white7.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+#home-slider .caption h1 strong {
+    color: #ffd600;
+}
+
+.left-control:hover,
+.right-control:hover {
+    background-color: #ffd600;
+}
+
+.learn-more {
+    border: 2px solid #ffd600;
+}
+
+.learn-more:hover {
+    background: #ffd600;
+}
+
+.left-control,
+.right-control {
+    border: 1px solid #ffd600;
+}
+
+.navbar-inverse {
+    border-color: #ffd600
+}
+
+.navbar-inverse .navbar-nav>li>a:hover,
+.navbar-inverse .navbar-nav>li>a:focus {
+    color: #ffd600
+}
+
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.open>a,
+.navbar-inverse .navbar-nav>.open>a:hover,
+.navbar-inverse .navbar-nav>.open>a:focus {
+    color: #ffd600
+}
+
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav>.active>a:focus {
+    color: #ffd600
+}
+
+.dropdown-menu>li>a {
+    color: #ffd600
+}
+
+.navbar-inverse .navbar-nav>.dropdown>a:hover .caret {
+    border-top-color: #ffd600
+}
+
+.navbar-toggle {
+    border: transparent;
+    background-color: #ffd600;
+}
+
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-toggle:focus {
+    background-color: #ffd600;
+}
+
+.spinner>div {
+    background: #ffd600;
+}
+
+.section-title h1 span {
+    background-color: #ffd600;
+}
+
+.hovicon.effect-1 {
+    background: #ffd600;
+}
+
+.hovicon.effect-1:after {
+    box-shadow: 0 0 0 4px #ffd600;
+}
+
+.text-color {
+    background: none repeat scroll 0 0 #ffd600;
+}
+
+.dporcaps-negative {
+    background: none repeat scroll 0 0 #ffd600;
+}
+
+.dporcaps {
+    color: #ffd600;
+}
+
+.blockqoute-style-2 {
+    border-left: 5px solid #ffd600;
+}
+
+cite {
+    color: #ffd600;
+}
+
+.hovicon.effect-1.sub-a:hover {
+    background: #ffd600;
+}
+
+.main-color {
+    color: #ffd600;
+}
+
+.white-color {
+    color: #fff;
+}
+
+.contact_form i {
+    color: #ffd600;
+}
+
+.contact_form input[type="submit"] {
+    background: #ffd600;
+    border: 1px solid #ffd600;
+}
+
+.contact_form input[type="submit"]:hover {
+    color: #ffd600;
+}
+
+.sign_form input[type="submit"]:hover {
+    color: #ffd600;
+}
+
+a.scroll-up {
+    background: none repeat scroll 0 0 #ffd600;
+}
+
+a.scroll-up i {
+    color: #fff;
+}
+
+a.scroll-up:hover i {
+    color: #ffd600;
+}
+
+a.scroll-up:hover {
+    color: #ffd600;
+    border-color: #ffd600;
+}

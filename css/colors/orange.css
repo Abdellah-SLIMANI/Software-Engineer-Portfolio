@@ -1,0 +1,152 @@
+a:link,
+a:visited,
+a:hover,
+a:focus {
+    text-decoration: none;
+    color: #ff6600;
+}
+
+.navbar-brand {
+    background: url("../../images/logo-white4.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+#home-slider .caption h1 strong {
+    color: #ff6600;
+}
+
+.left-control:hover,
+.right-control:hover {
+    background-color: #ff6600;
+}
+
+.learn-more {
+    border: 2px solid #ff6600;
+}
+
+.learn-more:hover {
+    background: #ff6600;
+}
+
+.left-control,
+.right-control {
+    border: 1px solid #ff6600;
+}
+
+.navbar-inverse {
+    border-color: #ff6600
+}
+
+.navbar-inverse .navbar-nav>li>a:hover,
+.navbar-inverse .navbar-nav>li>a:focus {
+    color: #ff6600
+}
+
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.open>a,
+.navbar-inverse .navbar-nav>.open>a:hover,
+.navbar-inverse .navbar-nav>.open>a:focus {
+    color: #ff6600
+}
+
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav>.active>a:focus {
+    color: #ff6600
+}
+
+.dropdown-menu>li>a {
+    color: #ff6600
+}
+
+.navbar-inverse .navbar-nav>.dropdown>a:hover .caret {
+    border-top-color: #ff6600
+}
+
+.navbar-toggle {
+    border: transparent;
+    background-color: #ff6600;
+}
+
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-toggle:focus {
+    background-color: #ff6600;
+}
+
+.spinner>div {
+    background: #ff6600;
+}
+
+.section-title h1 span {
+    background-color: #ff6600;
+}
+
+
+}
+.hovicon.effect-1 {
+    background: #ff6600;
+}
+.hovicon.effect-1:after {
+    box-shadow: 0 0 0 4px #ff6600;
+}
+.text-color {
+    background: none repeat scroll 0 0 #ff6600;
+}
+.dporcaps-negative {
+    background: none repeat scroll 0 0 #ff6600;
+}
+.dporcaps {
+    color: #ff6600;
+}
+.blockqoute-style-2 {
+    border-left: 5px solid #ff6600;
+}
+cite {
+    color: #ff6600;
+}
+.hovicon.effect-1.sub-a:hover {
+    background: #ff6600;
+}
+.main-color {
+    color: #ff6600;
+}
+.white-color {
+    color: #fff;
+}
+.bottom-footer {
+    border-top: 7px solid #ff6600;
+}
+.bottom-footer-left p a {
+    color: #ff6600;
+}
+.bottom-social-icons li a i {
+    background-color: #ff6600;
+    border: 1px solid #ff6600;
+}
+.bottom-social-icons li a i:hover {
+    color: #ff6600;
+}
+.contact_form i {
+    color: #ff6600;
+}
+.contact_form input[type="submit"] {
+    background: #ff6600;
+    border: 1px solid #ff6600;
+}
+.contact_form input[type="submit"]:hover {
+    color: #ff6600;
+}
+.sign_form input[type="submit"]:hover {
+    color: #ff6600;
+}
+a.scroll-up {
+    background: none repeat scroll 0 0 #ff6600;
+}
+a.scroll-up i {
+    color: #fff;
+}
+a.scroll-up:hover i {
+    color: #ff6600;
+}
+a.scroll-up:hover {
+    color: #ff6600;
+    border-color: #ff6600;
+}

@@ -1,0 +1,189 @@
+a:link,
+a:visited,
+a:hover,
+a:focus {
+    text-decoration: none;
+    color: #2BBF6A;
+}
+
+.navbar-brand {
+    background: url("../../images/logo-white3.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+#home-slider .caption h1 strong {
+    color: #2BBF6A;
+}
+
+.left-control:hover,
+.right-control:hover {
+    background-color: #2BBF6A;
+}
+
+.learn-more {
+    border: 2px solid #2BBF6A;
+}
+
+.learn-more:hover {
+    background: #2BBF6A;
+}
+
+.left-control,
+.right-control {
+    border: 1px solid #2BBF6A;
+}
+
+.navbar-inverse {
+    border-color: #2BBF6A
+}
+
+.navbar-inverse .navbar-nav>li>a:hover,
+.navbar-inverse .navbar-nav>li>a:focus {
+    color: #2BBF6A
+}
+
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.open>a,
+.navbar-inverse .navbar-nav>.open>a:hover,
+.navbar-inverse .navbar-nav>.open>a:focus {
+    color: #2BBF6A
+}
+
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav>.active>a:focus {
+    color: #2BBF6A
+}
+
+.dropdown-menu>li>a {
+    color: #2BBF6A
+}
+
+.navbar-inverse .navbar-nav>.dropdown>a:hover .caret {
+    border-top-color: #2BBF6A
+}
+
+.navbar-toggle {
+    border: transparent;
+    background-color: #2BBF6A;
+}
+
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-toggle:focus {
+    background-color: #2BBF6A;
+}
+
+.spinner>div {
+    background: #2BBF6A;
+}
+
+.section-title h1 span {
+    background-color: #2BBF6A;
+}
+
+.hovicon.effect-1 {
+    background: #2BBF6A;
+}
+
+.hovicon.effect-1:after {
+    box-shadow: 0 0 0 4px #2BBF6A;
+}
+
+.text-color {
+    background: none repeat scroll 0 0 #2BBF6A;
+}
+
+.dporcaps-negative {
+    background: none repeat scroll 0 0 #2BBF6A;
+}
+
+.dporcaps {
+    color: #2BBF6A;
+}
+
+.blockqoute-style-2 {
+    border-left: 5px solid #2BBF6A;
+}
+
+cite {
+    color: #2BBF6A;
+}
+
+.hovicon.effect-1.sub-a:hover {
+    background: #2BBF6A;
+}
+
+.main-color {
+    color: #2BBF6A;
+}
+
+.white-color {
+    color: #fff;
+}
+
+#filters li span.active,
+#filters li span:hover {
+    background: #2BBF6A;
+}
+
+#filters li span {
+    border: 1px solid #2BBF6A;
+    color: #2BBF6A;
+}
+
+.project-details h3 {
+    color: #2BBF6A;
+}
+
+.project-description h3 {
+    color: #2BBF6A;
+}
+
+.bottom-footer {
+    border-top: 7px solid #2BBF6A;
+}
+
+.bottom-footer-left p a {
+    color: #2BBF6A;
+}
+
+.bottom-social-icons li a i {
+    background-color: #2BBF6A;
+    border: 1px solid #2BBF6A;
+}
+
+.bottom-social-icons li a i:hover {
+    color: #2BBF6A;
+}
+
+.contact_form i {
+    color: #2BBF6A;
+}
+
+.contact_form input[type="submit"] {
+    background: #2BBF6A;
+    border: 1px solid #2BBF6A;
+}
+
+.contact_form input[type="submit"]:hover {
+    color: #2BBF6A;
+}
+
+.sign_form input[type="submit"]:hover {
+    color: #2BBF6A;
+}
+
+a.scroll-up {
+    background: none repeat scroll 0 0 #2BBF6A;
+}
+
+a.scroll-up i {
+    color: #fff;
+}
+
+a.scroll-up:hover i {
+    color: #2BBF6A;
+}
+
+a.scroll-up:hover {
+    color: #2BBF6A;
+    border-color: #2BBF6A;
+}

@@ -1,0 +1,171 @@
+a:link,
+a:visited,
+a:hover,
+a:focus {
+    text-decoration: none;
+    color: #9b59b6;
+}
+
+.navbar-brand {
+    background: url("../../images/logo-white5.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+#home-slider .caption h1 strong {
+    color: #9b59b6;
+}
+
+.left-control:hover,
+.right-control:hover {
+    background-color: #9b59b6;
+}
+
+.learn-more {
+    border: 2px solid #9b59b6;
+}
+
+.learn-more:hover {
+    background: #9b59b6;
+}
+
+.left-control,
+.right-control {
+    border: 1px solid #9b59b6;
+}
+
+.navbar-inverse {
+    border-color: #9b59b6
+}
+
+.navbar-inverse .navbar-nav>li>a:hover,
+.navbar-inverse .navbar-nav>li>a:focus {
+    color: #9b59b6
+}
+
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.open>a,
+.navbar-inverse .navbar-nav>.open>a:hover,
+.navbar-inverse .navbar-nav>.open>a:focus {
+    color: #9b59b6
+}
+
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav>.active>a:focus {
+    color: #9b59b6
+}
+
+.dropdown-menu>li>a {
+    color: #9b59b6
+}
+
+.navbar-inverse .navbar-nav>.dropdown>a:hover .caret {
+    border-top-color: #9b59b6
+}
+
+.navbar-toggle {
+    border: transparent;
+    background-color: #9b59b6;
+}
+
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-toggle:focus {
+    background-color: #9b59b6;
+}
+
+.spinner>div {
+    background: #9b59b6;
+}
+
+.section-title h1 span {
+    background-color: #9b59b6;
+}
+
+.hovicon.effect-1 {
+    background: #9b59b6;
+}
+
+.hovicon.effect-1:after {
+    box-shadow: 0 0 0 4px #9b59b6;
+}
+
+.text-color {
+    background: none repeat scroll 0 0 #9b59b6;
+}
+
+.dporcaps-negative {
+    background: none repeat scroll 0 0 #9b59b6;
+}
+
+.dporcaps {
+    color: #9b59b6;
+}
+
+.blockqoute-style-2 {
+    border-left: 5px solid #9b59b6;
+}
+
+cite {
+    color: #9b59b6;
+}
+
+.hovicon.effect-1.sub-a:hover {
+    background: #9b59b6;
+}
+
+.main-color {
+    color: #9b59b6;
+}
+
+.white-color {
+    color: #fff;
+}
+
+.bottom-footer {
+    border-top: 7px solid #9b59b6;
+}
+
+.bottom-footer-left p a {
+    color: #9b59b6;
+}
+
+.bottom-social-icons li a i {
+    background-color: #9b59b6;
+    border: 1px solid #9b59b6;
+}
+
+.bottom-social-icons li a i:hover {
+    color: #9b59b6;
+}
+
+.contact_form i {
+    color: #9b59b6;
+}
+
+.contact_form input[type="submit"] {
+    background: #9b59b6;
+    border: 1px solid #9b59b6;
+}
+
+.contact_form input[type="submit"]:hover {
+    color: #9b59b6;
+}
+
+.sign_form input[type="submit"]:hover {
+    color: #9b59b6;
+}
+
+a.scroll-up {
+    background: none repeat scroll 0 0 #9b59b6;
+}
+
+a.scroll-up i {
+    color: #fff;
+}
+
+a.scroll-up:hover i {
+    color: #9b59b6;
+}
+
+a.scroll-up:hover {
+    color: #9b59b6;
+    border-color: #9b59b6;
+}
