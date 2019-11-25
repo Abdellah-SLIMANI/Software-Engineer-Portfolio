@@ -556,9 +556,14 @@ ul {
 }
 
 .img-holder {
+    margin: 0.5rem;
     height: auto;
     overflow: hidden;
     position: relative;
+}
+
+.row {
+    margin: 2rem;
 }
 
 .img-holder img {

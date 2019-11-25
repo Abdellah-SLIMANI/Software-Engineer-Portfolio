@@ -4,8 +4,6 @@ jQuery(window).load(function() {
     $('body').delay(500).css({ 'overflow': 'visible' });
 });
 
-
-
 jQuery(document).ready(function() {
     function pde(event) {
         if (e.preventDefault)
@@ -59,12 +57,9 @@ jQuery(document).ready(function() {
         $(this).countTo()
     }, { triggerOnce: !0, offset: "bottom-in-view" });
 
-
     $(function() {
         $('.myport').mixItUp();
     });
-
-
 
     $(document).on('click', '.navbar-collapse.in', function(e) {
         if ($(e.target).is('a')) {
