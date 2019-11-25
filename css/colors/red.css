@@ -19,6 +19,10 @@ a:focus {
     background-color: #e21e25;
 }
 
+.img-overlay {
+    background-color: #e21e25;
+}
+
 .learn-more {
     border: 2px solid #e21e25;
 }

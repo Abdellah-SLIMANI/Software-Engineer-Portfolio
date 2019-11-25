@@ -115,6 +115,10 @@ cite {
     color: #fff;
 }
 
+.img-overlay {
+    background: #00cfef;
+}
+
 #filters li span.active,
 #filters li span:hover {
     background: #00cfef;

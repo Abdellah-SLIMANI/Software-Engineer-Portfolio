@@ -1,3 +1,8 @@
+@font-face {
+    font-family: myFont;
+    src: url("../fonts/SKETSO.ttf")
+}
+
 html,
 body {
     font-family: 'Open Sans', sans-serif;
@@ -11,10 +16,6 @@ body {
     -webkit-font-smoothing: antialiased;
     -webkit-text-stroke: rgba(255, 255, 255, 0.01) 0.1px;
     -webkit-text-stroke-width: 0.1px;
-}
-
-section {
-    padding: 5rem;
 }
 
 a:visited,
@@ -112,13 +113,6 @@ ul {
     }
 }
 
-.parallax {
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-}
-
 #home-slider {
     overflow: hidden;
     position: relative;
@@ -139,7 +133,7 @@ ul {
 }
 
 #home-slider .caption h1 {
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'myFont', sans-serif;
     color: #fff;
     font-weight: 700;
     font-size: 100px;
@@ -230,23 +224,6 @@ ul {
 
 #home-slider:hover .right-control {
     right: 30px
-}
-
-.learn-more {
-    background: transparent;
-    margin-top: 40px;
-    color: #e4e4e4;
-    padding: 13px 20px;
-    font-size: 14px;
-    -webkit-transition: all 0.5s ease-in-out 0s;
-    -moz-transition: all 0.5s ease-in-out 0s;
-    -o-transition: all 0.5s ease-in-out 0s;
-    transition: all 0.5s ease-in-out 0s;
-}
-
-.learn-more:hover {
-    border: 2px solid #fff;
-    color: #fff;
 }
 
 .dropdown-menu>li>a:hover,
@@ -632,59 +609,6 @@ ul {
 .works-overlay-icon {
     color: #fff;
     font-size: 60px;
-}
-
-#single-portfolio {
-    padding: 90px 0;
-    position: relative;
-}
-
-#single-portfolio img {
-    max-width: 100%;
-    box-shadow: 0 12px 19px rgba(0, 0, 0, 0.1) inset, 0 1px 7px rgba(255, 255, 255, 0.2);
-    height: auto;
-    margin-bottom: 10px;
-}
-
-#single-portfolio .close-folio-item {
-    position: absolute;
-    top: 30px;
-    font-size: 34px;
-    width: 34px;
-    height: 34px;
-    left: 50%;
-    color: #999;
-    margin-left: -17px;
-}
-
-.project-info h3 {
-    font-size: 24px;
-    text-align: center;
-    text-transform: capitalize;
-}
-
-.project-details h3 {
-    font-size: 20px;
-    text-align: left;
-}
-
-.project-description h3 {
-    font-size: 20px;
-    text-align: left;
-}
-
-.project-description p {
-    text-align: justify;
-}
-
-.project-details p {
-    text-align: left;
-    border-bottom: 1px solid #d6d6d6;
-    padding-bottom: 7px;
-}
-
-.project-info p {
-    text-align: left;
 }
 
 .bottom-footer {

@@ -10,6 +10,10 @@ a:focus {
     background: url("../../images/logo-white4.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
 }
 
+.img-overlay {
+    background: #ff6600;
+}
+
 #home-slider .caption h1 strong {
     color: #ff6600;
 }
